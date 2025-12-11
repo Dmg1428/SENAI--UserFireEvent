@@ -51,11 +51,12 @@ UserEvent
 
 ##### Ele dispara todos os eventos corretamente (mousedown, mouseup, click, focus, etc.).
 
-##### \#
+##### \
 
 
 
-##### fireEvent
+fireEvent
+----
 
 ##### 
 
